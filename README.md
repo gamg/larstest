@@ -10,3 +10,4 @@
 - npm run build
 - Configurar base de datos en archivo .env
 - Configurar servidor de correo en archivo .env
+- php artisan migrate --seed
